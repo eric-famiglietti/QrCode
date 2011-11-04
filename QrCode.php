@@ -9,7 +9,7 @@
 /**
  * QrCode
  *
- * @author Eric Famiglietti <efamigli@uvm.edu>
+ * @author Eric Famiglietti <eric.famiglietti@gmail.com>
  */
 class QrCode
 {
